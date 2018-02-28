@@ -1,5 +1,7 @@
 package common;
 
+import com.txtbase.strings.ComString;
+
 public class SimObject {
 	
 	public Object obj;

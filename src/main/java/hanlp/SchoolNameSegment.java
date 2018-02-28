@@ -6,8 +6,7 @@ import java.util.List;
 import com.hankcs.hanlp.HanLP;
 import com.hankcs.hanlp.seg.Segment;
 import com.hankcs.hanlp.seg.common.Term;
-
-import io.FileUtil;
+import com.txtbase.files.FileUtil;
 
 public class SchoolNameSegment {
 
