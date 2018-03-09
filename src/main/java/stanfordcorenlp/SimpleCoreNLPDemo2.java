@@ -10,5 +10,7 @@ public class SimpleCoreNLPDemo2 {
 		for(int i = 0; i<sen.length();i++) {
 			System.out.format("lemma:%-10s\t pos:%-10s\t ner:%-10s\n", sen.lemma(i), sen.posTag(i), sen.nerTag(i));
 		}
+		
 	}
+	
 }

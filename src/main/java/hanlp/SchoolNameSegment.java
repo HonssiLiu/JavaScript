@@ -6,7 +6,7 @@ import java.util.List;
 import com.hankcs.hanlp.HanLP;
 import com.hankcs.hanlp.seg.Segment;
 import com.hankcs.hanlp.seg.common.Term;
-import com.txtbase.files.FileUtil;
+import com.weidu.common.file.FileUtil;
 
 public class SchoolNameSegment {
 

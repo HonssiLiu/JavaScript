@@ -1,6 +1,6 @@
 package common;
 
-import com.txtbase.strings.ComString;
+import com.weidu.common.string.ComString;
 
 public class SimObject {
 	
