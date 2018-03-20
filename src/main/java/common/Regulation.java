@@ -25,7 +25,7 @@ public class Regulation {
 	}
 	
 	public String str = "Windows 95、Windows 98 和 Windows NT";
-	public String regex5 = "(?<=Windows )(?:95|98|NT)";
+	public String regex5 = "(?<=Windows )(95|98|NT)";
 	public void cleanDoctile() {
 		Matcher m = Pattern.compile(regex5).matcher(str);
 //		while(m.find()) {
