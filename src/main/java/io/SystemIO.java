@@ -1,13 +1,25 @@
 package io;
 
+import java.io.DataOutputStream;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.PrintWriter;
 import java.util.Locale;
 import java.util.Scanner;
 
+import com.alibaba.fastjson.JSON;
+
 public class SystemIO {
 	public static void main(String[] args) {
-		scannerInt();
+		File f = new File(System.getProperty("user.dir") +"\\src\\main\\resources\\PushSettings.json");
+		try (FileWriter fw = new FileWriter(f, true); PrintWriter pw = new PrintWriter(fw);) {
+			pw.println(JSON.toJSONString("abc"));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
 	public static void sysin() {
