@@ -8,6 +8,7 @@ import com.hankcs.hanlp.collection.AhoCorasick.AhoCorasickDoubleArrayTrie;
 import com.hankcs.hanlp.dictionary.BaseSearcher;
 import com.hankcs.hanlp.dictionary.CoreDictionary;
 import com.hankcs.hanlp.dictionary.CustomDictionary;
+import com.hankcs.hanlp.dictionary.stopword.CoreStopWordDictionary;
 import com.hankcs.hanlp.seg.Segment;
 import com.hankcs.hanlp.seg.CRF.CRFSegment;
 import com.hankcs.hanlp.seg.Dijkstra.DijkstraSegment;
@@ -131,23 +132,25 @@ public class DemoSegment {
 	// 目前分词器默认关闭了机构名识别，用户需要手动开启；这是因为消耗性能，其实常用机构名都收录在核心词典和用户自定义词典中。
 	public static void org() {
 		String[] testCase = new String[] { "河南农业大学", "中国地质大学（武汉）", "中南大学计算机科学学院", "西安电子科技大学"};
-		Segment segment = HanLP.newSegment().enableOrganizationRecognize(false).enablePlaceRecognize(false);
+		Segment segment = HanLP.newSegment().enableOrganizationRecognize(true).enablePlaceRecognize(true);
 		for (String sentence : testCase) {
 			List<Term> termList = segment.seg(sentence);
 			System.out.println(termList);
 		}
 	}
+	
 
 	public static void mytest() {
 		// 动态增加
-		String text = "中南大学地球物理学院";
+		String text = "湖南，中医药大学";
 		Segment segment = HanLP.newSegment().enableCustomDictionary(true);
 		List<Term> termList = segment.seg(text);
 		System.out.println(termList);
 	}
 
 	public static void main(String[] args) {
-		org();
+		CoreStopWordDictionary.contains(",");
+		customDictionary();
 	}
 
 }
