@@ -36,10 +36,18 @@ public class Regulation {
 			System.out.println(re);
 		}
 	}
+	
+	public String org = "湖南省长沙市开福区第二小学, 省级建设单位, 都市学院, 长沙市城市学院, 新疆自治区石油大学, 滨海开发区职业学校, 浦东新区XXX, 湖南地区xxx学院, 工业园区, 采矿区, 革命老区";
+	public String regex6 = "省(?!级)|(?<!都|城)市|自治区|开发区|新区|(?<!地|园|矿|老)区";
+	public void org() {
+		Matcher m = Pattern.compile(regex6).matcher(org);
+		org=m.replaceAll("");
+		System.out.println(org);
+	}
 
 	public static void main(String[] args) {
 		Regulation regulation = new Regulation();
-		regulation.cleanDoctile();
+		regulation.org();
 	}
 
 }

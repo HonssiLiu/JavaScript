@@ -41,7 +41,7 @@ public class ComputeWordsVector {
 				}
 			}
 			
-			Double maxCount = 0.0,wordWeight; //记录出现次数最多的词的次数，用作归一化  ？？？
+			Double maxCount = 0.0,wordWeight; 
 			Set<Map.Entry<String, Double>> tempTF = tfPerDocMap.entrySet();
 			for(Iterator<Map.Entry<String, Double>> mt = tempTF.iterator();mt.hasNext();){
 				Map.Entry<String, Double> me = mt.next();
@@ -183,6 +183,7 @@ public class ComputeWordsVector {
 		System.out.println("special words map sizes:" + wordMap.size());
 		String word,testSampleFile;
 		
+		//去除文件里面的低频词，即不包含在wordMap中的词，并保新文件至desDir
 		File[] sampleDir = new File(srcDir).listFiles();
 		for(int i =0;i<sampleDir.length;i++){
 			
