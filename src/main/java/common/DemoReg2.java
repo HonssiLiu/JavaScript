@@ -11,7 +11,10 @@ public class DemoReg2 {
     private static final String INPUT = "第二十八届中国地球物理学年会, 17年中国地球物理学年会， 1st conference...,  2nd conference..., 3rd conference..., 31th conference...";
  
     public static void main( String args[] ){
-    	replace();
+    	//replace();
+    	String org = " abc & cdf, abc &cdf, abc& cfd, abc&cdf,&abc,";
+    	org = org.replaceAll(" *\\& *", " and ");
+    	System.out.println(org);
    }
     
    public static void find(){
@@ -25,5 +28,6 @@ public class DemoReg2 {
    public static void replace(){
 	   Matcher m = Pattern.compile(REGEX).matcher(INPUT); // 获取 matcher 对象
 	   System.out.println(m.replaceAll(""));
+	   
    }
 }
