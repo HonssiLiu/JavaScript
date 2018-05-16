@@ -24,5 +24,9 @@ public class NumComputor {
 
 		// 自然常数
 		System.out.println(Math.E);
+
+		Double bb = 2.0;
+		int a = (int) bb.doubleValue();
+		System.out.println(a);
 	}
 }
