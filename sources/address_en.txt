@@ -1,0 +1,831 @@
+{"德惠":["dehui","de hui"]}
+{"贵溪":["guixi","gui xi"]}
+{"石首":["shishou","shi shou"]}
+{"井冈山":["jinggangshan","jing gang shan"]}
+{"黑河":["heihe","hei he"]}
+{"黔江":["qianjiang","qian jiang"]}
+{"峨眉山":["emeishan","e mei shan"]}
+{"永济":["yongji","yong ji"]}
+{"湾仔":["wanzi","wan zi"]}
+{"桐乡":["tongxiang","tong xiang"]}
+{"铁岭":["tieling","tie ling"]}
+{"天水":["tianshui","tian shui"]}
+{"宁安":["ningan","ning an"]}
+{"龙岩":["longyan","long yan"]}
+{"台东":["taidong","tai dong"]}
+{"兴化":["xinghua","xing hua"]}
+{"乐山":["leshan","le shan"]}
+{"日照":["rizhao","ri zhao"]}
+{"韶关":["shaoguan","shao guan"]}
+{"河源":["heyuan","he yuan"]}
+{"苗栗":["miaoli","miao li"]}
+{"台中":["taizhong","tai zhong"]}
+{"连云港":["lianyungang","lian yun gang"]}
+{"保山":["baoshan","bao shan"]}
+{"阿图什":["atushen","a tu shen"]}
+{"龙泉":["longquan","long quan"]}
+{"徐州":["xuzhou","xu zhou"]}
+{"青浦":["qingpu","qing pu"]}
+{"伊春":["yichun","yi chun"]}
+{"吐鲁番":["tulufan","tu lu fan"]}
+{"巴彦淖尔":["bayannaoer","ba yan nao er"]}
+{"莱州":["laizhou","lai zhou"]}
+{"麻城":["macheng","ma cheng"]}
+{"庆阳":["qingyang","qing yang"]}
+{"霍州":["huozhou","huo zhou"]}
+{"自贡":["zigong","zi gong"]}
+{"北碚":["beibei","bei bei"]}
+{"招远":["zhaoyuan","zhao yuan"]}
+{"枝江":["zhijiang","zhi jiang"]}
+{"耒阳":["leiyang","lei yang"]}
+{"咸阳":["xianyang","xian yang"]}
+{"东北":["dongbei","dong bei"]}
+{"江都":["jiangdu","jiang du"]}
+{"常德":["changde","chang de"]}
+{"沅江":["yuanjiang","yuan jiang"]}
+{"青海":["qinghai","qing hai"]}
+{"珲春":["hunchun","hun chun"]}
+{"张掖":["zhangye","zhang ye"]}
+{"佛山":["foshan","fo shan"]}
+{"齐齐哈尔":["qiqihaer","qi qi ha er"]}
+{"宣城":["xuancheng","xuan cheng"]}
+{"海伦":["hailun","hai lun"]}
+{"台湾":["taiwan","tai wan"]}
+{"兴宁":["xingning","xing ning"]}
+{"潜江":["qianjiang","qian jiang"]}
+{"长春":["changchun","chang chun"]}
+{"德兴":["dexing","de xing"]}
+{"渝北":["yubei","yu bei"]}
+{"侯马":["houma","hou ma"]}
+{"商洛":["shangluo","shang luo"]}
+{"乌海":["wuhai","wu hai"]}
+{"长乐":["changle","chang le"]}
+{"上海":["shanghai","shang hai"]}
+{"楚雄":["chuxiong","chu xiong"]}
+{"益阳":["yiyang","yi yang"]}
+{"中央":["zhongyang","zhong yang"]}
+{"永川":["yongchuan","yong chuan"]}
+{"敦煌":["dunhuang","dun huang"]}
+{"吉安":["jian","ji an"]}
+{"永州":["yongzhou","yong zhou"]}
+{"东南":["dongnan","dong nan"]}
+{"莱阳":["laiyang","lai yang"]}
+{"钟祥":["zhongxiang","zhong xiang"]}
+{"琼海":["qionghai","qiong hai"]}
+{"陆丰":["lufeng","lu feng"]}
+{"东华":["donghua","dong hua"]}
+{"万州":["wanzhou","wan zhou"]}
+{"老河口":["laohekou","lao he kou"]}
+{"绥芬河":["suifenhe","sui fen he"]}
+{"昆明":["kunming","kun ming"]}
+{"南充":["nanchong","nan chong"]}
+{"高邮":["gaoyou","gao you"]}
+{"丰都":["fengdou","feng dou"]}
+{"板桥":["banqiao","ban qiao"]}
+{"聊城":["liaocheng","liao cheng"]}
+{"普兰":["pulan","pu lan"]}
+{"开远":["kaiyuan","kai yuan"]}
+{"嘉峪关":["jiayuguan","jia yu guan"]}
+{"青州":["qingzhou","qing zhou"]}
+{"利川":["lichuan","li chuan"]}
+{"成都":["chengdu","cheng du"]}
+{"闵行":["minxing","min xing"]}
+{"宜都":["yidou","yi dou"]}
+{"龙海":["longhai","long hai"]}
+{"惠州":["huizhou","hui zhou"]}
+{"云浮":["yunfu","yun fu"]}
+{"来宾":["laibin","lai bin"]}
+{"阆中":["langzhong","lang zhong"]}
+{"扬州":["yangzhou","yang zhou"]}
+{"白城":["baicheng","bai cheng"]}
+{"晋州":["jinzhou","jin zhou"]}
+{"乌兰浩特":["wulanhaote","wu lan hao te"]}
+{"东莞":["dongguan","dong guan"]}
+{"石家庄":["shijiazhuang","shi jia zhuang"]}
+{"海林":["hailin","hai lin"]}
+{"江西":["jiangxi","jiang xi"]}
+{"安宁":["anning","an ning"]}
+{"天津":["tianjin","tian jin"]}
+{"平顶山":["pingdingshan","ping ding shan"]}
+{"七台河":["qitaihe","qi tai he"]}
+{"张家港":["zhangjiagang","zhang jia gang"]}
+{"义乌":["yiwu","yi wu"]}
+{"德令哈":["delingha","de ling ha"]}
+{"林州":["linzhou","lin zhou"]}
+{"静海":["jinghai","jing hai"]}
+{"磐石":["panshi","pan shi"]}
+{"抚顺":["fushun","fu shun"]}
+{"三明":["sanming","san ming"]}
+{"新郑":["xinzheng","xin zheng"]}
+{"胶南":["jiaonan","jiao nan"]}
+{"定西":["dingxi","ding xi"]}
+{"九台":["jiutai","jiu tai"]}
+{"海城":["haicheng","hai cheng"]}
+{"北票":["beipiao","bei piao"]}
+{"随州":["suizhou","sui zhou"]}
+{"瑞金":["ruijin","rui jin"]}
+{"圣老楞佐堂":["shenglaolengzuotang","sheng lao leng zuo tang"]}
+{"梅河口":["meihekou","mei he kou"]}
+{"盘锦":["panjin","pan jin"]}
+{"邵武":["shaowu","shao wu"]}
+{"毕节":["bijie","bi jie"]}
+{"许昌":["xuchang","xu chang"]}
+{"朔州":["shuozhou","shuo zhou"]}
+{"喀什":["kashi","ka shi"]}
+{"当阳":["dangyang","dang yang"]}
+{"扬中":["yangzhong","yang zhong"]}
+{"晋中":["jinzhong","jin zhong"]}
+{"遵化":["zunhua","zun hua"]}
+{"临夏":["linxia","lin xia"]}
+{"宜兴":["yixing","yi xing"]}
+{"哈尔滨":["haerbin","ha er bin"]}
+{"石狮":["shishi","shi shi"]}
+{"仁怀":["renhuai","ren huai"]}
+{"襄樊":["xiangfan","xiang fan"]}
+{"宁河":["ninghe","ning he"]}
+{"茂名":["maoming","mao ming"]}
+{"东台":["dongtai","dong tai"]}
+{"宜兰":["yilan","yi lan"]}
+{"密山":["mishan","mi shan"]}
+{"万源":["wanyuan","wan yuan"]}
+{"合山":["heshan","he shan"]}
+{"大足":["dazu","da zu"]}
+{"西北":["xibei","xi bei"]}
+{"湛江":["zhanjiang","zhan jiang"]}
+{"文昌":["wenchang","wen chang"]}
+{"孝感":["xiaogan","xiao gan"]}
+{"嘉义":["jiayi","jia yi"]}
+{"崇文":["chongwen","chong wen"]}
+{"唐山":["tangshan","tang shan"]}
+{"葵青":["kuiqing","kui qing"]}
+{"霍林郭勒":["huolinguole","huo lin guo le"]}
+{"桐城":["tongcheng","tong cheng"]}
+{"永康":["yongkang","yong kang"]}
+{"卫辉":["weihui","wei hui"]}
+{"汾阳":["fenyang","fen yang"]}
+{"天长":["tianchang","tian chang"]}
+{"资阳":["ziyang","zi yang"]}
+{"东营":["dongying","dong ying"]}
+{"华北":["huabei","hua bei"]}
+{"宁波":["ningbo","ning bo"]}
+{"五大连池":["wudalianchi","wu da lian chi"]}
+{"舒兰":["shulan","shu lan"]}
+{"潍坊":["weifang","wei fang"]}
+{"牙克石":["yakeshi","ya ke shi"]}
+{"商丘":["shangqiu","shang qiu"]}
+{"汉沽":["hangu","han gu"]}
+{"上虞":["shangyu","shang yu"]}
+{"灵武":["lingwu","ling wu"]}
+{"桦甸":["huadian","hua dian"]}
+{"诸暨":["zhuji","zhu ji"]}
+{"蛟河":["jiaohe","jiao he"]}
+{"滕州":["tengzhou","teng zhou"]}
+{"西南":["xinan","xi nan"]}
+{"九江":["jiujiang","jiu jiang"]}
+{"衢州":["quzhou","qu zhou"]}
+{"彰化":["zhanghua","zhang hua"]}
+{"介休":["jiexiu","jie xiu"]}
+{"花王堂":["huawangtang","hua wang tang"]}
+{"都匀":["douyun","dou yun"]}
+{"崇左":["chongzuo","chong zuo"]}
+{"乐昌":["lechang","le chang"]}
+{"氹仔":["dangzi","dang zi"]}
+{"三亚":["sanya","san ya"]}
+{"高要":["gaoyao","gao yao"]}
+{"圣安多尼堂":["shenganduonitang","sheng an duo ni tang"]}
+{"乐清":["yueqing","yue qing"]}
+{"崇州":["chongzhou","chong zhou"]}
+{"黄石":["huangshi","huang shi"]}
+{"万盛":["wansheng","wan sheng"]}
+{"平凉":["pingliang","ping liang"]}
+{"西华":["xihua","xi hua"]}
+{"华南":["huanan","hua nan"]}
+{"栖霞":["qixia","qi xia"]}
+{"灵宝":["lingbao","ling bao"]}
+{"盖州":["gaizhou","gai zhou"]}
+{"云阳":["yunyang","yun yang"]}
+{"廊坊":["langfang","lang fang"]}
+{"连州":["lianzhou","lian zhou"]}
+{"天门":["tianmen","tian men"]}
+{"文登":["wendeng","wen deng"]}
+{"同江":["tongjiang","tong jiang"]}
+{"姜堰":["jiangyan","jiang yan"]}
+{"嵊州":["shengzhou","sheng zhou"]}
+{"沁阳":["qinyang","qin yang"]}
+{"樟树":["zhangshu","zhang shu"]}
+{"大丰":["dafeng","da feng"]}
+{"大港":["dagang","da gang"]}
+{"衡阳":["hengyang","heng yang"]}
+{"昌平":["changping","chang ping"]}
+{"什邡":["shenfang","shen fang"]}
+{"崇明":["chongming","chong ming"]}
+{"运城":["yuncheng","yun cheng"]}
+{"塔城":["tacheng","ta cheng"]}
+{"西宁":["xining","xi ning"]}
+{"宿州":["suzhou","su zhou"]}
+{"西安":["xian","xi an"]}
+{"望德堂":["wangdetang","wang de tang"]}
+{"黄大仙":["huangdaxian","huang da xian"]}
+{"龙井":["longjing","long jing"]}
+{"南投":["nantou","nan tou"]}
+{"花地玛堂":["huadimatang","hua di ma tang"]}
+{"梧州":["wuzhou","wu zhou"]}
+{"房山":["fangshan","fang shan"]}
+{"垫江":["dianjiang","dian jiang"]}
+{"吴忠":["wuzhong","wu zhong"]}
+{"乐平":["leping","le ping"]}
+{"浙江":["zhejiang","zhe jiang"]}
+{"五常":["wuchang","wu chang"]}
+{"和田":["hetian","he tian"]}
+{"乐陵":["leling","le ling"]}
+{"首都":["shoudu","shou du"]}
+{"大庆":["daqing","da qing"]}
+{"泉州":["quanzhou","quan zhou"]}
+{"攀枝花":["panzhihua","pan zhi hua"]}
+{"石嘴山":["shizuishan","shi zui shan"]}
+{"藁城":["gaocheng","gao cheng"]}
+{"湖州":["huzhou","hu zhou"]}
+{"株洲":["zhuzhou","zhu zhou"]}
+{"离岛":["lidao","li dao"]}
+{"奉节":["fengjie","feng jie"]}
+{"江苏":["jiangsu","jiang su"]}
+{"凤城":["fengcheng","feng cheng"]}
+{"额尔古纳":["eerguna","e er gu na"]}
+{"兰州":["lanzhou","lan zhou"]}
+{"四川":["sichuan","si chuan"]}
+{"彭水":["pengshui","peng shui"]}
+{"常熟":["changshu","chang shu"]}
+{"呼和浩特":["huhehaote","hu he hao te"]}
+{"拉萨":["lasa","la sa"]}
+{"恩施":["enshi","en shi"]}
+{"信阳":["xinyang","xin yang"]}
+{"莆田":["putian","pu tian"]}
+{"清远":["qingyuan","qing yuan"]}
+{"敦化":["dunhua","dun hua"]}
+{"中北":["zhongbei","zhong bei"]}
+{"汕尾":["shanwei","shan wei"]}
+{"泰兴":["taixing","tai xing"]}
+{"景德镇":["jingdezhen","jing de zhen"]}
+{"江北":["jiangbei","jiang bei"]}
+{"辛集":["xinji","xin ji"]}
+{"永城":["yongcheng","yong cheng"]}
+{"鹤山":["heshan","he shan"]}
+{"鹤岗":["hegang","he gang"]}
+{"沈阳":["shenyang","shen yang"]}
+{"绵竹":["mianzhu","mian zhu"]}
+{"广元":["guangyuan","guang yuan"]}
+{"宣威":["xuanwei","xuan wei"]}
+{"汉川":["hanchuan","han chuan"]}
+{"朝阳":["zhaoyang","zhao yang"]}
+{"简阳":["jianyang","jian yang"]}
+{"秀山":["xiushan","xiu shan"]}
+{"中南":["zhongnan","zhong nan"]}
+{"蚌埠":["bengbu","beng bu"]}
+{"诸城":["zhucheng","zhu cheng"]}
+{"渭南":["weinan","wei nan"]}
+{"调兵山":["tiaobingshan","tiao bing shan"]}
+{"浏阳":["liuyang","liu yang"]}
+{"蓟县":["jixian","ji xian"]}
+{"牡丹江":["mudanjiang","mu dan jiang"]}
+{"富锦":["fujin","fu jin"]}
+{"中卫":["zhongwei","zhong wei"]}
+{"石景山":["shijingshan","shi jing shan"]}
+{"南华":["nanhua","nan hua"]}
+{"津南":["jinnan","jin nan"]}
+{"普宁":["puning","pu ning"]}
+{"太仓":["taicang","tai cang"]}
+{"淮北":["huaibei","huai bei"]}
+{"瑞安":["ruian","rui an"]}
+{"奉化":["fenghua","feng hua"]}
+{"广西":["guangxi","guang xi"]}
+{"五指山":["wuzhishan","wu zhi shan"]}
+{"武冈":["wugang","wu gang"]}
+{"晋城":["jincheng","jin cheng"]}
+{"盐城":["yancheng","yan cheng"]}
+{"通辽":["tongliao","tong liao"]}
+{"杨浦":["yangpu","yang pu"]}
+{"四平":["siping","si ping"]}
+{"三门峡":["sanmenxia","san men xia"]}
+{"英德":["yingde","ying de"]}
+{"焦作":["jiaozuo","jiao zuo"]}
+{"增城":["zengcheng","zeng cheng"]}
+{"枣阳":["zaoyang","zao yang"]}
+{"南宁":["nanning","nan ning"]}
+{"湘乡":["xiangxiang","xiang xiang"]}
+{"阜新":["fuxin","fu xin"]}
+{"汉中":["hanzhong","han zhong"]}
+{"佳木斯":["jiamusi","jia mu si"]}
+{"济源":["jiyuan","ji yuan"]}
+{"东方":["dongfang","dong fang"]}
+{"南安":["nanan","nan an"]}
+{"虎林":["hulin","hu lin"]}
+{"北华":["beihua","bei hua"]}
+{"荣成":["rongcheng","rong cheng"]}
+{"怀化":["huaihua","huai hua"]}
+{"菏泽":["heze","he ze"]}
+{"淮南":["huainan","huai nan"]}
+{"山西":["shanxi","shan xi"]}
+{"恩平":["enping","en ping"]}
+{"韶山":["shaoshan","shao shan"]}
+{"兰溪":["lanxi","lan xi"]}
+{"驻马店":["zhumadian","zhu ma dian"]}
+{"雷州 吴川":["leizhounonewuchuan","lei zhou none wu chuan"]}
+{"沙河":["shahe","sha he"]}
+{"南宫":["nangong","nan gong"]}
+{"赤水":["chishui","chi shui"]}
+{"新竹":["xinzhu","xin zhu"]}
+{"荆州":["jingzhou","jing zhou"]}
+{"禹州":["yuzhou","yu zhou"]}
+{"枣庄":["zaozhuang","zao zhuang"]}
+{"无锡":["wuxi","wu xi"]}
+{"醴陵":["liling","li ling"]}
+{"潼南":["tongnan","tong nan"]}
+{"淮安":["huaian","huai an"]}
+{"武威":["wuwei","wu wei"]}
+{"黄冈":["huanggang","huang gang"]}
+{"北安":["beian","bei an"]}
+{"延安":["yanan","yan an"]}
+{"华蓥":["huaying","hua ying"]}
+{"兴义":["xingyi","xing yi"]}
+{"大石桥":["dashiqiao","da shi qiao"]}
+{"丰原":["fengyuan","feng yuan"]}
+{"漯河":["tahe","ta he"]}
+{"遂宁":["suining","sui ning"]}
+{"内江":["neijiang","nei jiang"]}
+{"玉门":["yumen","yu men"]}
+{"荆门":["jingmen","jing men"]}
+{"辽宁":["liaoning","liao ning"]}
+{"兴平":["xingping","xing ping"]}
+{"綦江":["qijiang","qi jiang"]}
+{"郴州":["chenzhou","chen zhou"]}
+{"密云":["miyun","mi yun"]}
+{"滨海":["binhai","bin hai"]}
+{"阜阳":["fuyang","fu yang"]}
+{"大埔":["dabu","da bu"]}
+{"荃湾":["quanwan","quan wan"]}
+{"五家渠":["wujiaqu","wu jia qu"]}
+{"金华":["jinhua","jin hua"]}
+{"西贡":["xigong","xi gong"]}
+{"四会":["sihui","si hui"]}
+{"根河":["genhe","gen he"]}
+{"宁国":["ningguo","ning guo"]}
+{"东港":["donggang","dong gang"]}
+{"邳州":["pizhou","pi zhou"]}
+{"大连":["dalian","da lian"]}
+{"威海":["weihai","wei hai"]}
+{"东阳":["dongyang","dong yang"]}
+{"即墨":["jimo","ji mo"]}
+{"高安":["gaoan","gao an"]}
+{"安丘":["anqiu","an qiu"]}
+{"屏东":["pingdong","ping dong"]}
+{"胶州":["jiaozhou","jiao zhou"]}
+{"东丽":["dongli","dong li"]}
+{"温岭":["wenling","wen ling"]}
+{"宜宾":["yibin","yi bin"]}
+{"大堂":["datang","da tang"]}
+{"应城":["yingcheng","ying cheng"]}
+{"路环":["luhuan","lu huan"]}
+{"百色":["baise","bai se"]}
+{"沙田":["shatian","sha tian"]}
+{"渝中":["yuzhong","yu zhong"]}
+{"安阳":["anyang","an yang"]}
+{"武穴":["wuxue","wu xue"]}
+{"固安":["guan","gu an"]}
+{"丰台":["fengtai","feng tai"]}
+{"六盘水":["liupanshui","liu pan shui"]}
+{"福安":["fuan","fu an"]}
+{"安陆":["anlu","an lu"]}
+{"延吉":["yanji","yan ji"]}
+{"南汇":["nanhui","nan hui"]}
+{"临安":["linan","lin an"]}
+{"洮南":["taonan","tao nan"]}
+{"萍乡":["pingxiang","ping xiang"]}
+{"巴南":["banan","ba nan"]}
+{"宿迁":["suqian","su qian"]}
+{"富阳":["fuyang","fu yang"]}
+{"巫山":["wushan","wu shan"]}
+{"防城港":["fangchenggang","fang cheng gang"]}
+{"松原":["songyuan","song yuan"]}
+{"中山":["zhongshan","zhong shan"]}
+{"固原":["guyuan","gu yuan"]}
+{"太保":["taibao","tai bao"]}
+{"迁安":["qianan","qian an"]}
+{"滨州":["binzhou","bin zhou"]}
+{"高密":["gaomi","gao mi"]}
+{"莱西":["laixi","lai xi"]}
+{"江山":["jiangshan","jiang shan"]}
+{"阜康":["fukang","fu kang"]}
+{"昌邑":["changyi","chang yi"]}
+{"西方":["xifang","xi fang"]}
+{"濮阳":["puyang","pu yang"]}
+{"邵阳":["shaoyang","shao yang"]}
+{"闸北":["zhabei","zha bei"]}
+{"黑龙江":["heilongjiang","hei long jiang"]}
+{"大渡口":["dadukou","da du kou"]}
+{"安庆":["anqing","an qing"]}
+{"湘潭":["xiangtan","xiang tan"]}
+{"彭州":["pengzhou","peng zhou"]}
+{"新密":["xinmi","xin mi"]}
+{"青铜峡":["qingtongxia","qing tong xia"]}
+{"赤峰":["chifeng","chi feng"]}
+{"杭州":["hangzhou","hang zhou"]}
+{"西藏":["xizang","xi zang"]}
+{"宣武":["xuanwu","xuan wu"]}
+{"平谷":["pinggu","ping gu"]}
+{"岑溪":["cenxi","cen xi"]}
+{"江油":["jiangyou","jiang you"]}
+{"潮州":["chaozhou","chao zhou"]}
+{"潞城":["lucheng","lu cheng"]}
+{"常宁":["changning","chang ning"]}
+{"安康":["ankang","an kang"]}
+{"柳州":["liuzhou","liu zhou"]}
+{"绍兴":["shaoxing","shao xing"]}
+{"南岸":["nanan","nan an"]}
+{"营口":["yingkou","ying kou"]}
+{"玉溪":["yuxi","yu xi"]}
+{"﻿国家":["noneguojia","none guo jia"]}
+{"黄骅":["huanghua","huang hua"]}
+{"冀州":["jizhou","ji zhou"]}
+{"蓬莱":["penglai","peng lai"]}
+{"乳山":["rushan","ru shan"]}
+{"宁德":["ningde","ning de"]}
+{"溧阳":["liyang","li yang"]}
+{"遵义":["zunyi","zun yi"]}
+{"新民":["xinmin","xin min"]}
+{"纳河":["nahe","na he"]}
+{"周口":["zhoukou","zhou kou"]}
+{"洛阳":["luoyang","luo yang"]}
+{"洪江":["hongjiang","hong jiang"]}
+{"新营":["xinying","xin ying"]}
+{"西昌":["xichang","xi chang"]}
+{"句容":["jurong","ju rong"]}
+{"宝山":["baoshan","bao shan"]}
+{"嘉兴":["jiaxing","jia xing"]}
+{"仙桃":["xiantao","xian tao"]}
+{"华东":["huadong","hua dong"]}
+{"和龙":["helong","he long"]}
+{"普洱":["puer","pu er"]}
+{"铜川":["tongchuan","tong chuan"]}
+{"马公":["magong","ma gong"]}
+{"开原":["kaiyuan","kai yuan"]}
+{"泰安":["taian","tai an"]}
+{"景洪":["jinghong","jing hong"]}
+{"虹口":["hongkou","hong kou"]}
+{"澳门":["aomen","ao men"]}
+{"阳江":["yangjiang","yang jiang"]}
+{"安国":["anguo","an guo"]}
+{"资兴":["zixing","zi xing"]}
+{"临江":["linjiang","lin jiang"]}
+{"璧山":["bishan","bi shan"]}
+{"吉林":["jilin","ji lin"]}
+{"上饶":["shangrao","shang rao"]}
+{"江津":["jiangjin","jiang jin"]}
+{"华阴":["huayin","hua yin"]}
+{"松江":["songjiang","song jiang"]}
+{"开县":["kaixian","kai xian"]}
+{"克拉玛依":["kelamayi","ke la ma yi"]}
+{"日喀则":["rikaze","ri ka ze"]}
+{"巢湖":["chaohu","chao hu"]}
+{"临汾":["linfen","lin fen"]}
+{"临沂":["linyi","lin yi"]}
+{"河北":["hebei","he bei"]}
+{"赣州":["ganzhou","gan zhou"]}
+{"海南":["hainan","hai nan"]}
+{"兴城":["xingcheng","xing cheng"]}
+{"金山":["jinshan","jin shan"]}
+{"满洲里":["manzhouli","man zhou li"]}
+{"温州":["wenzhou","wen zhou"]}
+{"涟源":["lianyuan","lian yuan"]}
+{"新沂":["xinyi","xin yi"]}
+{"广安":["guangan","guang an"]}
+{"阿勒泰":["aletai","a le tai"]}
+{"阳泉":["yangquan","yang quan"]}
+{"海宁":["haining","hai ning"]}
+{"登封":["dengfeng","deng feng"]}
+{"奎屯":["kuitun","kui tun"]}
+{"武安":["wuan","wu an"]}
+{"奉贤":["fengxian","feng xian"]}
+{"本溪":["benxi","ben xi"]}
+{"个旧":["gejiu","ge jiu"]}
+{"明光":["mingguang","ming guang"]}
+{"临沧":["lincang","lin cang"]}
+{"苏州":["suzhou","su zhou"]}
+{"北流":["beiliu","bei liu"]}
+{"公主岭":["gongzhuling","gong zhu ling"]}
+{"十堰":["shiyan","shi yan"]}
+{"漳州":["zhangzhou","zhang zhou"]}
+{"河南":["henan","he nan"]}
+{"开封":["kaifeng","kai feng"]}
+{"铜陵":["tongling","tong ling"]}
+{"德州":["dezhou","de zhou"]}
+{"鄂州":["ezhou","e zhou"]}
+{"凭祥":["pingxiang","ping xiang"]}
+{"承德":["chengde","cheng de"]}
+{"福泉":["fuquan","fu quan"]}
+{"韩城":["hancheng","han cheng"]}
+{"北镇":["beizhen","bei zhen"]}
+{"娄底":["loudi","lou di"]}
+{"莱芜":["laiwu","lai wu"]}
+{"顺义":["shunyi","shun yi"]}
+{"丰镇":["fengzhen","feng zhen"]}
+{"玉林":["yulin","yu lin"]}
+{"凌海":["linghai","ling hai"]}
+{"大兴":["daxing","da xing"]}
+{"汝州":["ruzhou","ru zhou"]}
+{"台北":["taibei","tai bei"]}
+{"禹城":["yucheng","yu cheng"]}
+{"建瓯":["jianou","jian ou"]}
+{"海口":["haikou","hai kou"]}
+{"如皋":["rugao","ru gao"]}
+{"辉县":["huixian","hui xian"]}
+{"南方":["nanfang","nan fang"]}
+{"忻州":["xinzhou","xin zhou"]}
+{"义马":["yima","yi ma"]}
+{"北海":["beihai","bei hai"]}
+{"德阳":["deyang","de yang"]}
+{"二连浩特":["erlianhaote","er lian hao te"]}
+{"安达":["anda","an da"]}
+{"安徽":["anhui","an hui"]}
+{"瑞昌":["ruichang","rui chang"]}
+{"江门":["jiangmen","jiang men"]}
+{"大冶":["daye","da ye"]}
+{"曲阜":["qufu","qu fu"]}
+{"锦州":["jinzhou","jin zhou"]}
+{"南川":["nanchuan","nan chuan"]}
+{"台南":["tainan","tai nan"]}
+{"津市":["jinshi","jin shi"]}
+{"池州":["chizhou","chi zhou"]}
+{"雅安":["yaan","ya an"]}
+{"铜仁":["tongren","tong ren"]}
+{"浦东":["pudong","pu dong"]}
+{"双辽":["shuangliao","shuang liao"]}
+{"乌兰察布":["wulanchabu","wu lan cha bu"]}
+{"亳州":["bozhou","bo zhou"]}
+{"化州":["huazhou","hua zhou"]}
+{"北方":["beifang","bei fang"]}
+{"双城":["shuangcheng","shuang cheng"]}
+{"巩义":["gongyi","gong yi"]}
+{"定州":["dingzhou","ding zhou"]}
+{"集安":["jian","ji an"]}
+{"瑞丽":["ruili","rui li"]}
+{"合肥":["hefei","he fei"]}
+{"珠海":["zhuhai","zhu hai"]}
+{"白山":["baishan","bai shan"]}
+{"普陀":["putuo","pu tuo"]}
+{"丽水":["lishui","li shui"]}
+{"武夷山":["wuyishan","wu yi shan"]}
+{"广水":["guangshui","guang shui"]}
+{"南昌":["nanchang","nan chang"]}
+{"广汉":["guanghan","guang han"]}
+{"西青":["xiqing","xi qing"]}
+{"宁夏":["ningxia","ning xia"]}
+{"酒泉":["jiuquan","jiu quan"]}
+{"泊头":["botou","bo tou"]}
+{"余姚":["yuyao","yu yao"]}
+{"漳平":["zhangping","zhang ping"]}
+{"武汉":["wuhan","wu han"]}
+{"霸州":["bazhou","ba zhou"]}
+{"南阳":["nanyang","nan yang"]}
+{"凯里":["kaili","kai li"]}
+{"江阴":["jiangyin","jiang yin"]}
+{"伊宁":["yining","yi ning"]}
+{"咸宁":["xianning","xian ning"]}
+{"界首":["jieshou","jie shou"]}
+{"基隆":["jilong","ji long"]}
+{"灯塔":["dengta","deng ta"]}
+{"宜州":["yizhou","yi zhou"]}
+{"临海":["linhai","lin hai"]}
+{"丽江":["lijiang","li jiang"]}
+{"绵阳":["mianyang","mian yang"]}
+{"陕西":["shanxi","shan xi"]}
+{"新疆":["xinjiang","xin jiang"]}
+{"仪征":["yizheng","yi zheng"]}
+{"城口":["chengkou","cheng kou"]}
+{"陇南":["longnan","long nan"]}
+{"呼伦贝尔":["hulunbeier","hu lun bei er"]}
+{"鄂尔多斯":["eerduosi","e er duo si"]}
+{"铁力":["tieli","tie li"]}
+{"钦州":["qinzhou","qin zhou"]}
+{"潞西":["luxi","lu xi"]}
+{"长宁":["changning","chang ning"]}
+{"达州":["dazhou","da zhou"]}
+{"梅州":["meizhou","mei zhou"]}
+{"南平":["nanping","nan ping"]}
+{"宜昌":["yichang","yi chang"]}
+{"双鸭山":["shuangyashan","shuang ya shan"]}
+{"石河子":["shihezi","shi he zi"]}
+{"河池":["hechi","he chi"]}
+{"深州":["shenzhou","shen zhou"]}
+{"从化":["conghua","cong hua"]}
+{"宜春":["yichun","yi chun"]}
+{"涪陵":["fuling","fu ling"]}
+{"张家界":["zhangjiajie","zhang jia jie"]}
+{"辽阳":["liaoyang","liao yang"]}
+{"乌苏":["wusu","wu su"]}
+{"红桥":["hongqiao","hong qiao"]}
+{"双桥":["shuangqiao","shuang qiao"]}
+{"巫溪":["wuxi","wu xi"]}
+{"高州":["gaozhou","gao zhou"]}
+{"白银":["baiyin","bai yin"]}
+{"酉阳":["youyang","you yang"]}
+{"锡林浩特":["xilinhaote","xi lin hao te"]}
+{"绥化 加格达奇":["suihuanonejiagedaqi","sui hua none jia ge da qi"]}
+{"沧州":["cangzhou","cang zhou"]}
+{"安顺":["anshun","an shun"]}
+{"淄博":["zibo","zi bo"]}
+{"穆林":["mulin","mu lin"]}
+{"梁平":["liangping","liang ping"]}
+{"福州":["fuzhou","fu zhou"]}
+{"舟山":["zhoushan","zhou shan"]}
+{"邹城":["zoucheng","zou cheng"]}
+{"通化":["tonghua","tong hua"]}
+{"沙坪坝":["shapingba","sha ping ba"]}
+{"偃师":["yanshi","yan shi"]}
+{"宝鸡":["baoji","bao ji"]}
+{"鹿泉":["luquan","lu quan"]}
+{"儋州":["danzhou","dan zhou"]}
+{"邯郸":["handan","han dan"]}
+{"博乐":["bole","bo le"]}
+{"黄山":["huangshan","huang shan"]}
+{"元朗":["yuanlang","yuan lang"]}
+{"金州":["jinzhou","jin zhou"]}
+{"南京":["nanjing","nan jing"]}
+{"阳春":["yangchun","yang chun"]}
+{"风顺堂":["fengshuntang","feng shun tang"]}
+{"南雄":["nanxiong","nan xiong"]}
+{"平湖":["pinghu","ping hu"]}
+{"金昌":["jinchang","jin chang"]}
+{"南康":["nankang","nan kang"]}
+{"重庆":["chongqing","chong qing"]}
+{"凌源":["lingyuan","ling yuan"]}
+{"石柱":["shizhu","shi zhu"]}
+{"万宁":["wanning","wan ning"]}
+{"舞钢":["wugang","wu gang"]}
+{"孟州":["mengzhou","meng zhou"]}
+{"临清":["linqing","lin qing"]}
+{"福清":["fuqing","fu qing"]}
+{"延庆":["yanqing","yan qing"]}
+{"永安":["yongan","yong an"]}
+{"瓦房店":["wafangdian","wa fang dian"]}
+{"葫芦岛":["huludao","hu lu dao"]}
+{"洪湖":["honghu","hong hu"]}
+{"辽源":["liaoyuan","liao yuan"]}
+{"甘肃":["gansu","gan su"]}
+{"项城":["xiangcheng","xiang cheng"]}
+{"乌鲁木齐":["wulumuqi","wu lu mu qi"]}
+{"慈溪":["cixi","ci xi"]}
+{"丹江口":["danjiangkou","dan jiang kou"]}
+{"长寿":["changshou","chang shou"]}
+{"任丘":["renqiu","ren qiu"]}
+{"建阳":["jianyang","jian yang"]}
+{"中国":["zhongguo","zhong guo"]}
+{"肇东":["zhaodong","zhao dong"]}
+{"桂平":["guiping","gui ping"]}
+{"深水埗":["shenshuibu","shen shui bu"]}
+{"北京":["beijing","bei jing"]}
+{"库尔勒":["kuerle","ku er le"]}
+{"秦皇岛":["qinhuangdao","qin huang dao"]}
+{"南开":["nankai","nan kai"]}
+{"眉山":["meishan","mei shan"]}
+{"孝义":["xiaoyi","xiao yi"]}
+{"高平":["gaoping","gao ping"]}
+{"抚州":["fuzhou","fu zhou"]}
+{"台山":["taishan","tai shan"]}
+{"鞍山":["anshan","an shan"]}
+{"平度":["pingdu","ping du"]}
+{"吴江":["wujiang","wu jiang"]}
+{"庄河":["zhuanghe","zhuang he"]}
+{"吉首":["jishou","ji shou"]}
+{"曲靖":["qujing","qu jing"]}
+{"阿拉尔":["alaer","a la er"]}
+{"高碑店":["gaobeidian","gao bei dian"]}
+{"新乐":["xinle","xin le"]}
+{"常州":["changzhou","chang zhou"]}
+{"临湘":["linxiang","lin xiang"]}
+{"长葛":["changge","chang ge"]}
+{"扎兰屯":["zalantun","za lan tun"]}
+{"斗六":["douliu","dou liu"]}
+{"嘉定":["jiading","jia ding"]}
+{"徐汇":["xuhui","xu hui"]}
+{"廉江":["lianjiang","lian jiang"]}
+{"新乡":["xinxiang","xin xiang"]}
+{"原平":["yuanping","yuan ping"]}
+{"油尖旺":["youjianwang","you jian wang"]}
+{"包头":["baotou","bao tou"]}
+{"观塘":["guantang","guan tang"]}
+{"鹤壁":["hebi","he bi"]}
+{"肇庆":["zhaoqing","zhao qing"]}
+{"东兴":["dongxing","dong xing"]}
+{"榆林":["yulin","yu lin"]}
+{"河津":["hejin","he jin"]}
+{"泰州":["taizhou","tai zhou"]}
+{"长沙":["changsha","chang sha"]}
+{"鹰潭":["yingtan","ying tan"]}
+{"云南":["yunnan","yun nan"]}
+{"尚志":["shangzhi","shang zhi"]}
+{"烟台":["yantai","yan tai"]}
+{"高雄":["gaoxiong","gao xiong"]}
+{"松滋":["songzi","song zi"]}
+{"吕梁":["lvliang","lv liang"]}
+{"桃园":["taoyuan","tao yuan"]}
+{"凤山":["fengshan","feng shan"]}
+{"厦门":["xiamen","xia men"]}
+{"丹东":["dandong","dan dong"]}
+{"长治":["changzhi","chang zhi"]}
+{"丹阳":["danyang","dan yang"]}
+{"荣昌":["rongchang","rong chang"]}
+{"海淀":["haidian","hai dian"]}
+{"昆山":["kunshan","kun shan"]}
+{"芜湖":["wuhu","wu hu"]}
+{"罗定":["luoding","luo ding"]}
+{"滁州":["chuzhou","chu zhou"]}
+{"黄浦":["huangpu","huang pu"]}
+{"竹北":["zhubei","zhu bei"]}
+{"花莲":["hualian","hua lian"]}
+{"广州":["guangzhou","guang zhou"]}
+{"铜梁":["tongliang","tong liang"]}
+{"章丘":["zhangqiu","zhang qiu"]}
+{"九龙坡":["jiulongpo","jiu long po"]}
+{"郑州":["zhengzhou","zheng zhou"]}
+{"静安":["jingan","jing an"]}
+{"兖州":["yanzhou","yan zhou"]}
+{"格尔木":["geermu","ge er mu"]}
+{"都江堰":["dujiangyan","du jiang yan"]}
+{"福建":["fujian","fu jian"]}
+{"榆树":["yushu","yu shu"]}
+{"大安":["daan","da an"]}
+{"古交":["gujiao","gu jiao"]}
+{"九龙城":["jiulongcheng","jiu long cheng"]}
+{"福鼎":["fuding","fu ding"]}
+{"武清":["wuqing","wu qing"]}
+{"屯门":["tunmen","tun men"]}
+{"卢湾":["luwan","lu wan"]}
+{"保定":["baoding","bao ding"]}
+{"贵州":["guizhou","gui zhou"]}
+{"海门":["haimen","hai men"]}
+{"阿克苏":["akesu","a ke su"]}
+{"阿尔山":["aershan","a er shan"]}
+{"鸡西":["jixi","ji xi"]}
+{"塘沽":["tanggu","tang gu"]}
+{"深圳":["shenzhen","shen zhen"]}
+{"昌吉":["changji","chang ji"]}
+{"汕头":["shantou","shan tou"]}
+{"北辰":["beichen","bei chen"]}
+{"宝坻":["baodi","bao di"]}
+{"广东":["guangdong","guang dong"]}
+{"晋江":["jinjiang","jin jiang"]}
+{"开平":["kaiping","kai ping"]}
+{"龙口":["longkou","long kou"]}
+{"张家口":["zhangjiakou","zhang jia kou"]}
+{"荥阳":["xingyang","xing yang"]}
+{"昭通":["zhaotong","zhao tong"]}
+{"贵港":["guigang","gui gang"]}
+{"湖北":["hubei","hu bei"]}
+{"贵阳":["guiyang","gui yang"]}
+{"海阳":["haiyang","hai yang"]}
+{"丰城":["fengcheng","feng cheng"]}
+{"桂林":["guilin","gui lin"]}
+{"青岛":["qingdao","qing dao"]}
+{"邢台":["xingtai","xing tai"]}
+{"图们":["tumen","tu men"]}
+{"新余":["xinyu","xin yu"]}
+{"香港":["xianggang","xiang gang"]}
+{"马鞍山":["maanshan","ma an shan"]}
+{"南通":["nantong","nan tong"]}
+{"河间":["hejian","he jian"]}
+{"大理":["dali","da li"]}
+{"银川":["yinchuan","yin chuan"]}
+{"宜城":["yicheng","yi cheng"]}
+{"邓州":["dengzhou","deng zhou"]}
+{"金坛":["jintan","jin tan"]}
+{"太原":["taiyuan","tai yuan"]}
+{"山东":["shandong","shan dong"]}
+{"三河":["sanhe","san he"]}
+{"济南":["jinan","ji nan"]}
+{"启东":["qidong","qi dong"]}
+{"湖南":["hunan","hu nan"]}
+{"赤壁":["chibi","chi bi"]}
+{"大同":["datong","da tong"]}
+{"忠县":["zhongxian","zhong xian"]}
+{"怀柔":["huairou","huai rou"]}
+{"邛崃":["qionglai","qiong lai"]}
+{"靖江":["jingjiang","jing jiang"]}
+{"汨罗":["miluo","mi luo"]}
+{"冷水江":["lengshuijiang","leng shui jiang"]}
+{"衡水":["hengshui","heng shui"]}
+{"台州":["taizhou","tai zhou"]}
+{"镇江":["zhenjiang","zhen jiang"]}
+{"揭阳":["jieyang","jie yang"]}
+{"泸州":["luzhou","lu zhou"]}
+{"岳阳":["yueyang","yue yang"]}
+{"武隆":["wulong","wu long"]}
+{"门头沟":["mentougou","men tou gou"]}
+{"清镇":["qingzhen","qing zhen"]}
+{"内蒙古":["neimenggu","nei meng gu"]}
+{"涿州":["zhuozhou","zhuo zhou"]}
+{"哈密":["hami","ha mi"]}
+{"贺州":["hezhou","he zhou"]}
+{"建德":["jiande","jian de"]}
+{"华西":["huaxi","hua xi"]}
+{"图木舒克":["tumushuke","tu mu shu ke"]}
+{"济宁":["jining","ji ning"]}
