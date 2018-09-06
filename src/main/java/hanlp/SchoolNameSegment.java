@@ -6,13 +6,13 @@ import java.util.List;
 import com.hankcs.hanlp.HanLP;
 import com.hankcs.hanlp.seg.Segment;
 import com.hankcs.hanlp.seg.common.Term;
-import com.weidu.common.file.FileUtil;
+import com.weidu.comutil.file.FileUtil;
 
 public class SchoolNameSegment {
 
 	public void test() {
 		URL url = this.getClass().getClassLoader().getResource("schoolNames.txt");
-		List<String> schoolNames = FileUtil.InputData(url.getPath());
+		List<String> schoolNames = FileUtil.inputData(url.getPath());
 		Segment segment = HanLP.newSegment().enableCustomDictionary(false);
 		for (String sentence : schoolNames) {
 			List<Term> termList = segment.seg(sentence);

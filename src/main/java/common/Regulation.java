@@ -45,9 +45,10 @@ public class Regulation {
 		System.out.println(org);
 	}
 
+
 	public static void main(String[] args) {
 		Regulation regulation = new Regulation();
-		regulation.org();
+		regulation.cleanDoctile();
 	}
 
 }

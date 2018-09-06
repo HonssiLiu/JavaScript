@@ -1,15 +1,15 @@
 package hanlp;
 
+import com.hankcs.hanlp.HanLP;
+import com.hankcs.hanlp.dictionary.py.Pinyin;
+import com.weidu.comutil.file.FileIterStr;
+import com.weidu.comutil.file.FileUtil;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
-import com.hankcs.hanlp.HanLP;
-import com.hankcs.hanlp.dictionary.py.Pinyin;
-import com.weidu.comutils.file.FileIterStr;
-import com.weidu.comutils.file.FileUtil;
 
 public class AddressTranslation {
 
